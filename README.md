@@ -11,7 +11,6 @@ The created service should only contain the location and the name of the film (n
 <b>Links:</b>
 Figma link for my webdesign(made by Nazari Cherviak).
 https://www.figma.com/file/aHEEMXEFKaKdtQnWdxN7yd/Untitled?node-id=2%3A37
-Link to a website: sf-cherviak-ibm.tk
 
 <b>Hosting:</b><br>
 The website was hosted on netlify.<br>
