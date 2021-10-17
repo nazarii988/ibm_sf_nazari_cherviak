@@ -14,5 +14,4 @@ https://www.figma.com/file/aHEEMXEFKaKdtQnWdxN7yd/Untitled?node-id=2%3A37
 
 <b>Hosting:</b><br>
 The website was hosted on netlify.<br>
-Link to website:https://cranky-rosalind-7d0148.netlify.app
-
+Link to website:https://kind-cray-124ae4.netlify.app
